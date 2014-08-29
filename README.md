@@ -9,6 +9,12 @@ New type to be called:
 
   fuzzyDate (perhaps "inherited from JavaScript Date)
   
+Will start with:
+
+  http://code.tutsplus.com/tutorials/build-your-first-javascript-library--net-26796
+  http://www.w3schools.com/jsref/jsref_obj_date.asp
+  https://github.com/philbooth/vagueTime.js
+  
 The abstract is that:
 
 1. Create "class" structure to allow date storage like:
